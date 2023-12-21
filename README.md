@@ -15,7 +15,7 @@ pip install tkinter pillow easyocr pandas spacy reportlab ttkthemes
 1. Run the application by executing the script in a Python environment.
    
 ```bash
-python your_script_name.py
+python test.py
 ```
 
 2. Click the "Upload Image" button to select an image file containing text.
