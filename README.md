@@ -44,4 +44,3 @@ python test.py
 - Editing and printing options are available through the right-click context menu in the Treeview.
 - Ensure that all required dependencies are installed before running the application.
 
-Feel free to customize and extend the application based on your specific needs!
